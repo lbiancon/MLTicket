@@ -1,0 +1,7 @@
+#elenco le librerie usate per far funzionare il proggetto 
+pandas
+numpy
+scikit-learn
+matplotlib
+joblib
+streamlit

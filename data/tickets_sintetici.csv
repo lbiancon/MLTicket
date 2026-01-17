@@ -1,0 +1,301 @@
+id,title,body,category,priority
+1,IBAN per bonifico ID#7468,"Ho pagato due volte, chiedo rimborso urgente..",Amministrazione,alta
+2,Pagamento duplicato ID#9779,"Risulta insoluto ma ho ricevuta, pagamento non registrato. per favore.",Amministrazione,alta
+3,IBAN per bonifico ID#1950,Potete emettere nota di credito per fattura errata? richiesta bloccante.,Amministrazione,alta
+4,Scadenza fattura oggi ID#2408,"Non trovo la fattura del mese, potete reinviarla? non urgente.",Amministrazione,alta
+5,Sollecito pagamento ID#4943,"Non trovo la fattura del mese, potete reinviarla? per favore.",Amministrazione,media
+6,Sollecito pagamento ID#3028,"Non trovo la fattura del mese, potete reinviarla? il prima possibile.",Amministrazione,media
+7,Fattura non ricevuta ID#7499,Potete emettere nota di credito per fattura errata?.,Amministrazione,bassa
+8,Scadenza fattura oggi ID#3181,"Non trovo la fattura del mese, potete reinviarla? entro oggi.",Amministrazione,bassa
+9,Sollecito pagamento ID#9858,"Ho pagato due volte, chiedo rimborso urgente. per favore.",Amministrazione,alta
+10,Richiesta nota di credito ID#3961,Potete emettere nota di credito per fattura errata? per favore.,Amministrazione,bassa
+11,Scadenza fattura oggi ID#2596,"L'importo non corrisponde al contratto, serve verifica. richiesta bloccante.",Amministrazione,alta
+12,Pagamento duplicato ID#1976,Potete emettere nota di credito per fattura errata? il prima possibile.,Amministrazione,alta
+13,Pagamento non registrato ID#9711,Indicatemi l'IBAN corretto per il bonifico. non urgente.,Amministrazione,alta
+14,IBAN per bonifico ID#8424,Mi serve conferma pagamento entro domani. entro domani.,Amministrazione,media
+15,Richiesta nota di credito ID#3945,"Ho pagato due volte, chiedo rimborso urgente. il prima possibile.",Amministrazione,alta
+16,Pagamento duplicato ID#5919,Potete emettere nota di credito per fattura errata? richiesta bloccante.,Amministrazione,alta
+17,Pagamento non registrato ID#8353,"L'importo non corrisponde al contratto, serve verifica. entro oggi.",Amministrazione,bassa
+18,Pagamento duplicato ID#9387,"Non trovo la fattura del mese, potete reinviarla? non urgente.",Amministrazione,alta
+19,Errore importo fattura ID#6604,"Risulta insoluto ma ho ricevuta, pagamento non registrato. grazie.",Amministrazione,bassa
+20,Pagamento non registrato ID#1642,Mi serve conferma pagamento entro domani. per favore.,Amministrazione,media
+21,IBAN per bonifico ID#6737,"L'importo non corrisponde al contratto, serve verifica. è urgente.",Amministrazione,alta
+22,Pagamento non registrato ID#2533,"Non trovo la fattura del mese, potete reinviarla? entro oggi.",Amministrazione,bassa
+23,Pagamento non registrato ID#2064,Indicatemi l'IBAN corretto per il bonifico..,Amministrazione,bassa
+24,Richiesta nota di credito ID#8301,Indicatemi l'IBAN corretto per il bonifico. entro oggi.,Amministrazione,bassa
+25,Sollecito pagamento ID#6685,Indicatemi l'IBAN corretto per il bonifico..,Amministrazione,media
+26,Pagamento non registrato ID#3753,"L'importo non corrisponde al contratto, serve verifica. per favore.",Amministrazione,bassa
+27,Pagamento non registrato ID#4575,"Non trovo la fattura del mese, potete reinviarla? entro oggi.",Amministrazione,bassa
+28,Errore importo fattura ID#5056,Indicatemi l'IBAN corretto per il bonifico. non urgente.,Amministrazione,alta
+29,Sollecito pagamento ID#9134,"Risulta insoluto ma ho ricevuta, pagamento non registrato. per favore.",Amministrazione,media
+30,Errore importo fattura ID#7580,Mi serve conferma pagamento entro domani. richiesta bloccante.,Amministrazione,alta
+31,Richiesta nota di credito ID#8053,"Ho pagato due volte, chiedo rimborso urgente. richiesta bloccante.",Amministrazione,alta
+32,Richiesta nota di credito ID#7804,Indicatemi l'IBAN corretto per il bonifico. entro domani.,Amministrazione,media
+33,Sollecito pagamento ID#3472,"Ho pagato due volte, chiedo rimborso urgente. per favore.",Amministrazione,alta
+34,Errore importo fattura ID#4800,"Ho pagato due volte, chiedo rimborso urgente. il prima possibile.",Amministrazione,alta
+35,Fattura non ricevuta ID#3987,Mi serve conferma pagamento entro domani. entro oggi.,Amministrazione,media
+36,Richiesta nota di credito ID#3386,"Non trovo la fattura del mese, potete reinviarla? non urgente.",Amministrazione,alta
+37,IBAN per bonifico ID#6220,Potete emettere nota di credito per fattura errata? grazie.,Amministrazione,bassa
+38,Fattura non ricevuta ID#7428,Mi serve conferma pagamento entro domani. non urgente.,Amministrazione,alta
+39,Sollecito pagamento ID#2696,Mi serve conferma pagamento entro domani. è urgente.,Amministrazione,alta
+40,Sollecito pagamento ID#4122,"Non trovo la fattura del mese, potete reinviarla? per favore.",Amministrazione,media
+41,Scadenza fattura oggi ID#3659,Mi serve conferma pagamento entro domani. per favore.,Amministrazione,media
+42,IBAN per bonifico ID#1861,Potete emettere nota di credito per fattura errata? per favore.,Amministrazione,bassa
+43,Fattura non ricevuta ID#3478,Potete emettere nota di credito per fattura errata? richiesta bloccante.,Amministrazione,alta
+44,Pagamento duplicato ID#1417,"L'importo non corrisponde al contratto, serve verifica. per favore.",Amministrazione,alta
+45,Scadenza fattura oggi ID#7164,Potete emettere nota di credito per fattura errata? grazie.,Amministrazione,bassa
+46,Richiesta nota di credito ID#6966,"L'importo non corrisponde al contratto, serve verifica. è urgente.",Amministrazione,alta
+47,Pagamento duplicato ID#8996,"Non trovo la fattura del mese, potete reinviarla? è urgente.",Amministrazione,alta
+48,Pagamento non registrato ID#6109,Mi serve conferma pagamento entro domani. per favore.,Amministrazione,media
+49,Errore importo fattura ID#6613,"Non trovo la fattura del mese, potete reinviarla? entro oggi.",Amministrazione,bassa
+50,Pagamento non registrato ID#3645,"Risulta insoluto ma ho ricevuta, pagamento non registrato. richiesta bloccante.",Amministrazione,alta
+51,Fattura non ricevuta ID#9654,"Ho pagato due volte, chiedo rimborso urgente. entro domani.",Amministrazione,alta
+52,Errore importo fattura ID#9899,Indicatemi l'IBAN corretto per il bonifico..,Amministrazione,bassa
+53,Richiesta nota di credito ID#2491,Indicatemi l'IBAN corretto per il bonifico. entro oggi.,Amministrazione,bassa
+54,IBAN per bonifico ID#6827,"Ho pagato due volte, chiedo rimborso urgente. il prima possibile.",Amministrazione,alta
+55,IBAN per bonifico ID#4654,Indicatemi l'IBAN corretto per il bonifico. il prima possibile.,Amministrazione,bassa
+56,Scadenza fattura oggi ID#7564,"Risulta insoluto ma ho ricevuta, pagamento non registrato. il prima possibile.",Amministrazione,bassa
+57,Scadenza fattura oggi ID#9073,Potete emettere nota di credito per fattura errata? entro domani.,Amministrazione,media
+58,Fattura non ricevuta ID#5577,"Non trovo la fattura del mese, potete reinviarla? è urgente.",Amministrazione,alta
+59,Richiesta nota di credito ID#6640,"Ho pagato due volte, chiedo rimborso urgente. è urgente.",Amministrazione,alta
+60,IBAN per bonifico ID#2319,"L'importo non corrisponde al contratto, serve verifica. il prima possibile.",Amministrazione,bassa
+61,Pagamento duplicato ID#8701,"Ho pagato due volte, chiedo rimborso urgente. il prima possibile.",Amministrazione,alta
+62,IBAN per bonifico ID#8907,"Ho pagato due volte, chiedo rimborso urgente..",Amministrazione,alta
+63,Pagamento non registrato ID#6636,Indicatemi l'IBAN corretto per il bonifico. per favore.,Amministrazione,bassa
+64,Pagamento duplicato ID#4265,Mi serve conferma pagamento entro domani. è urgente.,Amministrazione,alta
+65,Errore importo fattura ID#6447,Mi serve conferma pagamento entro domani. per favore.,Amministrazione,media
+66,Sollecito pagamento ID#7576,Mi serve conferma pagamento entro domani. per favore.,Amministrazione,media
+67,Errore importo fattura ID#3081,"Ho pagato due volte, chiedo rimborso urgente..",Amministrazione,alta
+68,Errore importo fattura ID#8624,Potete emettere nota di credito per fattura errata? grazie.,Amministrazione,bassa
+69,Pagamento non registrato ID#6741,Indicatemi l'IBAN corretto per il bonifico. grazie.,Amministrazione,bassa
+70,Errore importo fattura ID#1233,"Non trovo la fattura del mese, potete reinviarla? per favore.",Amministrazione,bassa
+71,Errore importo fattura ID#4191,Mi serve conferma pagamento entro domani. il prima possibile.,Amministrazione,media
+72,Fattura non ricevuta ID#4486,"L'importo non corrisponde al contratto, serve verifica. entro oggi.",Amministrazione,bassa
+73,Scadenza fattura oggi ID#6341,"Risulta insoluto ma ho ricevuta, pagamento non registrato. entro oggi.",Amministrazione,bassa
+74,Sollecito pagamento ID#3147,"Risulta insoluto ma ho ricevuta, pagamento non registrato..",Amministrazione,media
+75,IBAN per bonifico ID#9466,Mi serve conferma pagamento entro domani. non urgente.,Amministrazione,alta
+76,Errore importo fattura ID#3487,Potete emettere nota di credito per fattura errata? richiesta bloccante.,Amministrazione,alta
+77,Fattura non ricevuta ID#8211,"Risulta insoluto ma ho ricevuta, pagamento non registrato. grazie.",Amministrazione,bassa
+78,Fattura non ricevuta ID#3454,"Risulta insoluto ma ho ricevuta, pagamento non registrato. grazie.",Amministrazione,bassa
+79,Errore importo fattura ID#2971,Mi serve conferma pagamento entro domani. richiesta bloccante.,Amministrazione,alta
+80,Fattura non ricevuta ID#9492,"L'importo non corrisponde al contratto, serve verifica. richiesta bloccante.",Amministrazione,alta
+81,Pagamento non registrato ID#2738,"Risulta insoluto ma ho ricevuta, pagamento non registrato. richiesta bloccante.",Amministrazione,alta
+82,Fattura non ricevuta ID#4134,"Ho pagato due volte, chiedo rimborso urgente. entro oggi.",Amministrazione,alta
+83,Fattura non ricevuta ID#2601,"Risulta insoluto ma ho ricevuta, pagamento non registrato. richiesta bloccante.",Amministrazione,alta
+84,Pagamento non registrato ID#1456,Potete emettere nota di credito per fattura errata? per favore.,Amministrazione,bassa
+85,Pagamento non registrato ID#9282,"L'importo non corrisponde al contratto, serve verifica. richiesta bloccante.",Amministrazione,alta
+86,Scadenza fattura oggi ID#5541,Indicatemi l'IBAN corretto per il bonifico. è urgente.,Amministrazione,alta
+87,Pagamento non registrato ID#5057,Potete emettere nota di credito per fattura errata? richiesta bloccante.,Amministrazione,alta
+88,Richiesta nota di credito ID#4319,Potete emettere nota di credito per fattura errata? è urgente.,Amministrazione,alta
+89,Errore importo fattura ID#2992,Mi serve conferma pagamento entro domani. non urgente.,Amministrazione,alta
+90,Pagamento non registrato ID#2188,"L'importo non corrisponde al contratto, serve verifica. il prima possibile.",Amministrazione,bassa
+91,Sollecito pagamento ID#4484,"Non trovo la fattura del mese, potete reinviarla? entro oggi.",Amministrazione,media
+92,Pagamento duplicato ID#3530,"Risulta insoluto ma ho ricevuta, pagamento non registrato. entro domani.",Amministrazione,alta
+93,Errore importo fattura ID#3248,"L'importo non corrisponde al contratto, serve verifica. è urgente.",Amministrazione,alta
+94,Scadenza fattura oggi ID#2542,Indicatemi l'IBAN corretto per il bonifico. non urgente.,Amministrazione,alta
+95,Pagamento non registrato ID#4665,"Ho pagato due volte, chiedo rimborso urgente. grazie.",Amministrazione,alta
+96,Sollecito pagamento ID#7616,Potete emettere nota di credito per fattura errata? entro domani.,Amministrazione,media
+97,Sollecito pagamento ID#6842,"Ho pagato due volte, chiedo rimborso urgente. entro domani.",Amministrazione,alta
+98,Pagamento duplicato ID#6995,Indicatemi l'IBAN corretto per il bonifico..,Amministrazione,alta
+99,IBAN per bonifico ID#8514,Potete emettere nota di credito per fattura errata? è urgente.,Amministrazione,alta
+100,Fattura non ricevuta ID#6431,Mi serve conferma pagamento entro domani. richiesta bloccante.,Amministrazione,alta
+101,Sistema lento ID#2848,"L'app si chiude subito, comportamento bloccante. il prima possibile.",Tecnico,alta
+102,App non si avvia ID#5351,"L'app si chiude subito, comportamento bloccante. entro oggi.",Tecnico,alta
+103,Errore 500 in dashboard ID#5430,"Dopo aggiornamento crash frequente, è urgente. grazie.",Tecnico,alta
+104,API restituisce 401 ID#7651,Il sistema è lento e spesso non risponde. grazie.,Tecnico,media
+105,Servizio fermo ID#2465,Upload va in timeout e non completa l'operazione. entro oggi.,Tecnico,alta
+106,Errore 500 in dashboard ID#7968,"Dopo aggiornamento crash frequente, è urgente. per favore.",Tecnico,alta
+107,Sistema lento ID#2451,Da stamattina errore 500 quando apro la schermata principale. entro oggi.,Tecnico,alta
+108,App non si avvia ID#2091,"Non riesco ad accedere, login non funziona con credenziali corrette. entro oggi.",Tecnico,media
+109,App non si avvia ID#1189,"Servizio fermo, sistema down, priorità alta. entro domani.",Tecnico,alta
+110,API restituisce 401 ID#3117,Il sistema è lento e spesso non risponde..,Tecnico,media
+111,Login non funziona ID#3645,"L'app si chiude subito, comportamento bloccante. entro oggi.",Tecnico,alta
+112,Errore 500 in dashboard ID#4305,"Dopo aggiornamento crash frequente, è urgente. entro oggi.",Tecnico,alta
+113,Sistema lento ID#5750,"Non riesco ad accedere, login non funziona con credenziali corrette. è urgente.",Tecnico,alta
+114,Crash dopo aggiornamento ID#6685,Il sistema è lento e spesso non risponde..,Tecnico,alta
+115,Sistema lento ID#1251,Da stamattina errore 500 quando apro la schermata principale..,Tecnico,alta
+116,Login non funziona ID#5025,"Servizio fermo, sistema down, priorità alta. è urgente.",Tecnico,alta
+117,App non si avvia ID#9110,"Integrazione API fallisce con 401, non posso lavorare. richiesta bloccante.",Tecnico,alta
+118,API restituisce 401 ID#4525,Il sistema è lento e spesso non risponde. il prima possibile.,Tecnico,media
+119,Timeout durante upload ID#3289,"Non riesco ad accedere, login non funziona con credenziali corrette. non urgente.",Tecnico,alta
+120,Timeout durante upload ID#3126,Da stamattina errore 500 quando apro la schermata principale..,Tecnico,alta
+121,App non si avvia ID#8057,Il sistema è lento e spesso non risponde. grazie.,Tecnico,media
+122,Errore 500 in dashboard ID#7240,"L'app si chiude subito, comportamento bloccante. richiesta bloccante.",Tecnico,alta
+123,Sistema lento ID#5801,"Non riesco ad accedere, login non funziona con credenziali corrette..",Tecnico,media
+124,Servizio fermo ID#3581,"Dopo aggiornamento crash frequente, è urgente. entro oggi.",Tecnico,alta
+125,Servizio fermo ID#5312,Da stamattina errore 500 quando apro la schermata principale. entro domani.,Tecnico,alta
+126,Timeout durante upload ID#5005,Upload va in timeout e non completa l'operazione..,Tecnico,alta
+127,Sistema lento ID#6842,"Non riesco ad accedere, login non funziona con credenziali corrette. grazie.",Tecnico,media
+128,Errore 500 in dashboard ID#7252,Upload va in timeout e non completa l'operazione. per favore.,Tecnico,alta
+129,Servizio fermo ID#9237,Il sistema è lento e spesso non risponde. il prima possibile.,Tecnico,alta
+130,Login non funziona ID#2488,Da stamattina errore 500 quando apro la schermata principale. entro oggi.,Tecnico,alta
+131,App non si avvia ID#7545,"Dopo aggiornamento crash frequente, è urgente..",Tecnico,alta
+132,API restituisce 401 ID#5909,Da stamattina errore 500 quando apro la schermata principale. entro oggi.,Tecnico,alta
+133,Login non funziona ID#9670,"L'app si chiude subito, comportamento bloccante. grazie.",Tecnico,alta
+134,API restituisce 401 ID#9096,Upload va in timeout e non completa l'operazione. grazie.,Tecnico,alta
+135,Sistema lento ID#1717,"Dopo aggiornamento crash frequente, è urgente. richiesta bloccante.",Tecnico,alta
+136,API restituisce 401 ID#9581,"Dopo aggiornamento crash frequente, è urgente. richiesta bloccante.",Tecnico,alta
+137,Errore 500 in dashboard ID#2394,"Non riesco ad accedere, login non funziona con credenziali corrette..",Tecnico,alta
+138,Errore 500 in dashboard ID#6909,"Dopo aggiornamento crash frequente, è urgente. per favore.",Tecnico,alta
+139,API restituisce 401 ID#1831,"Servizio fermo, sistema down, priorità alta..",Tecnico,alta
+140,Login non funziona ID#5321,"Servizio fermo, sistema down, priorità alta..",Tecnico,alta
+141,Servizio fermo ID#9240,"L'app si chiude subito, comportamento bloccante. richiesta bloccante.",Tecnico,alta
+142,App non si avvia ID#8763,"L'app si chiude subito, comportamento bloccante. entro oggi.",Tecnico,alta
+143,App non si avvia ID#4846,Il sistema è lento e spesso non risponde. il prima possibile.,Tecnico,media
+144,Login non funziona ID#9092,"Servizio fermo, sistema down, priorità alta. non urgente.",Tecnico,alta
+145,App non si avvia ID#5707,"Servizio fermo, sistema down, priorità alta..",Tecnico,alta
+146,Login non funziona ID#3415,"L'app si chiude subito, comportamento bloccante. entro domani.",Tecnico,alta
+147,Sistema lento ID#3186,Il sistema è lento e spesso non risponde..,Tecnico,media
+148,Servizio fermo ID#8959,Da stamattina errore 500 quando apro la schermata principale. entro oggi.,Tecnico,alta
+149,App non si avvia ID#9021,"Non riesco ad accedere, login non funziona con credenziali corrette. entro oggi.",Tecnico,media
+150,Sistema lento ID#8633,"Servizio fermo, sistema down, priorità alta. è urgente.",Tecnico,alta
+151,App non si avvia ID#6106,"Non riesco ad accedere, login non funziona con credenziali corrette. per favore.",Tecnico,media
+152,Servizio fermo ID#5744,Da stamattina errore 500 quando apro la schermata principale. è urgente.,Tecnico,alta
+153,App non si avvia ID#5401,"Servizio fermo, sistema down, priorità alta. non urgente.",Tecnico,alta
+154,Login non funziona ID#2222,"Non riesco ad accedere, login non funziona con credenziali corrette. per favore.",Tecnico,media
+155,Crash dopo aggiornamento ID#6890,Il sistema è lento e spesso non risponde. grazie.,Tecnico,alta
+156,Sistema lento ID#6983,"L'app si chiude subito, comportamento bloccante. il prima possibile.",Tecnico,alta
+157,Servizio fermo ID#7456,"Servizio fermo, sistema down, priorità alta..",Tecnico,alta
+158,Crash dopo aggiornamento ID#9055,Da stamattina errore 500 quando apro la schermata principale. è urgente.,Tecnico,alta
+159,API restituisce 401 ID#3305,Il sistema è lento e spesso non risponde. non urgente.,Tecnico,alta
+160,Timeout durante upload ID#6178,"Integrazione API fallisce con 401, non posso lavorare. per favore.",Tecnico,alta
+161,Timeout durante upload ID#6317,Da stamattina errore 500 quando apro la schermata principale. entro domani.,Tecnico,alta
+162,API restituisce 401 ID#4207,"L'app si chiude subito, comportamento bloccante..",Tecnico,alta
+163,Sistema lento ID#7098,Il sistema è lento e spesso non risponde. per favore.,Tecnico,media
+164,API restituisce 401 ID#2251,"Integrazione API fallisce con 401, non posso lavorare. entro domani.",Tecnico,media
+165,API restituisce 401 ID#1790,Il sistema è lento e spesso non risponde. entro oggi.,Tecnico,media
+166,App non si avvia ID#5679,Da stamattina errore 500 quando apro la schermata principale. grazie.,Tecnico,alta
+167,Login non funziona ID#8147,Il sistema è lento e spesso non risponde. richiesta bloccante.,Tecnico,alta
+168,Timeout durante upload ID#7116,"Non riesco ad accedere, login non funziona con credenziali corrette. non urgente.",Tecnico,alta
+169,Errore 500 in dashboard ID#9998,"Integrazione API fallisce con 401, non posso lavorare. il prima possibile.",Tecnico,alta
+170,App non si avvia ID#7731,Da stamattina errore 500 quando apro la schermata principale. è urgente.,Tecnico,alta
+171,Crash dopo aggiornamento ID#8955,Il sistema è lento e spesso non risponde..,Tecnico,alta
+172,Crash dopo aggiornamento ID#8736,"Dopo aggiornamento crash frequente, è urgente. non urgente.",Tecnico,alta
+173,Timeout durante upload ID#5878,Il sistema è lento e spesso non risponde. entro oggi.,Tecnico,alta
+174,Sistema lento ID#4910,"Integrazione API fallisce con 401, non posso lavorare. entro oggi.",Tecnico,media
+175,Servizio fermo ID#2961,"Integrazione API fallisce con 401, non posso lavorare. grazie.",Tecnico,alta
+176,Crash dopo aggiornamento ID#4405,"L'app si chiude subito, comportamento bloccante. richiesta bloccante.",Tecnico,alta
+177,Servizio fermo ID#8421,"Non riesco ad accedere, login non funziona con credenziali corrette. entro domani.",Tecnico,alta
+178,Servizio fermo ID#3287,"Integrazione API fallisce con 401, non posso lavorare. richiesta bloccante.",Tecnico,alta
+179,Login non funziona ID#2486,"Non riesco ad accedere, login non funziona con credenziali corrette. grazie.",Tecnico,media
+180,Timeout durante upload ID#6231,"L'app si chiude subito, comportamento bloccante. il prima possibile.",Tecnico,alta
+181,Timeout durante upload ID#4311,Il sistema è lento e spesso non risponde..,Tecnico,alta
+182,API restituisce 401 ID#7781,"Integrazione API fallisce con 401, non posso lavorare. richiesta bloccante.",Tecnico,alta
+183,Login non funziona ID#5427,"Integrazione API fallisce con 401, non posso lavorare. entro domani.",Tecnico,media
+184,Errore 500 in dashboard ID#5546,"Servizio fermo, sistema down, priorità alta. entro domani.",Tecnico,alta
+185,Crash dopo aggiornamento ID#2517,"Non riesco ad accedere, login non funziona con credenziali corrette. entro oggi.",Tecnico,alta
+186,Login non funziona ID#7549,"Integrazione API fallisce con 401, non posso lavorare. è urgente.",Tecnico,alta
+187,API restituisce 401 ID#1357,Il sistema è lento e spesso non risponde. grazie.,Tecnico,media
+188,Errore 500 in dashboard ID#8754,"Integrazione API fallisce con 401, non posso lavorare. è urgente.",Tecnico,alta
+189,Errore 500 in dashboard ID#7414,"L'app si chiude subito, comportamento bloccante. richiesta bloccante.",Tecnico,alta
+190,Servizio fermo ID#5070,"Servizio fermo, sistema down, priorità alta. per favore.",Tecnico,alta
+191,Login non funziona ID#3491,"Dopo aggiornamento crash frequente, è urgente. richiesta bloccante.",Tecnico,alta
+192,App non si avvia ID#2392,"Servizio fermo, sistema down, priorità alta. richiesta bloccante.",Tecnico,alta
+193,Errore 500 in dashboard ID#3058,Da stamattina errore 500 quando apro la schermata principale. il prima possibile.,Tecnico,alta
+194,Errore 500 in dashboard ID#3096,Il sistema è lento e spesso non risponde. entro oggi.,Tecnico,alta
+195,API restituisce 401 ID#2629,"L'app si chiude subito, comportamento bloccante. per favore.",Tecnico,alta
+196,Sistema lento ID#7358,"Non riesco ad accedere, login non funziona con credenziali corrette. entro oggi.",Tecnico,media
+197,Login non funziona ID#1171,Da stamattina errore 500 quando apro la schermata principale. richiesta bloccante.,Tecnico,alta
+198,Sistema lento ID#5564,"Servizio fermo, sistema down, priorità alta. entro domani.",Tecnico,alta
+199,Login non funziona ID#9622,"Servizio fermo, sistema down, priorità alta. il prima possibile.",Tecnico,alta
+200,Login non funziona ID#7747,Da stamattina errore 500 quando apro la schermata principale. entro oggi.,Tecnico,alta
+201,Richiesta preventivo ID#4180,Vorrei un preventivo per 20 licenze e assistenza. è urgente.,Commerciale,alta
+202,Cambio ordine ID#5214,Quali differenze tra piano Base e Pro? il prima possibile.,Commerciale,bassa
+203,Cambio ordine ID#4715,Vorrei fare upgrade del piano dal prossimo mese. è urgente.,Commerciale,alta
+204,Richiesta preventivo ID#7890,Vorrei fare upgrade del piano dal prossimo mese. entro domani.,Commerciale,media
+205,Cambio ordine ID#1110,Mi servono tempi di consegna stimati. entro oggi.,Commerciale,bassa
+206,Info offerta Pro ID#9121,Mi servono tempi di consegna stimati. il prima possibile.,Commerciale,bassa
+207,Sconto per quantità ID#4781,Mi servono tempi di consegna stimati. è urgente.,Commerciale,alta
+208,Tempi di consegna ID#5832,Possiamo avere sconto per quantità su ordine ricorrente? per favore.,Commerciale,bassa
+209,Disponibilità prodotto ID#4658,Qual è lo stato del mio ordine e quando arriva? è urgente.,Commerciale,alta
+210,Cambio ordine ID#3398,Vorrei un preventivo per 20 licenze e assistenza. non urgente.,Commerciale,alta
+211,Richiesta preventivo ID#1387,Mi servono tempi di consegna stimati. grazie.,Commerciale,bassa
+212,Cambio ordine ID#1985,Vorrei un preventivo per 20 licenze e assistenza. grazie.,Commerciale,bassa
+213,Cambio ordine ID#6147,Disponibilità prodotto e costi di spedizione. per favore.,Commerciale,bassa
+214,Info offerta Pro ID#6394,Qual è lo stato del mio ordine e quando arriva? il prima possibile.,Commerciale,bassa
+215,Stato ordine ID#1522,Disponibilità prodotto e costi di spedizione. entro oggi.,Commerciale,bassa
+216,Cambio ordine ID#6434,Vorrei fare upgrade del piano dal prossimo mese. è urgente.,Commerciale,alta
+217,Stato ordine ID#1047,Quali differenze tra piano Base e Pro? per favore.,Commerciale,bassa
+218,Sconto per quantità ID#6758,Quali differenze tra piano Base e Pro? non urgente.,Commerciale,alta
+219,Info offerta Pro ID#7228,Mi servono tempi di consegna stimati. entro domani.,Commerciale,media
+220,Sconto per quantità ID#2437,Posso modificare l'ordine già inserito?.,Commerciale,bassa
+221,Disponibilità prodotto ID#7106,Mi servono tempi di consegna stimati. richiesta bloccante.,Commerciale,alta
+222,Disponibilità prodotto ID#6297,Mi servono tempi di consegna stimati. entro domani.,Commerciale,media
+223,Disponibilità prodotto ID#7730,Vorrei un preventivo per 20 licenze e assistenza. il prima possibile.,Commerciale,bassa
+224,Cambio ordine ID#7153,Vorrei un preventivo per 20 licenze e assistenza..,Commerciale,bassa
+225,Disponibilità prodotto ID#2015,Quali differenze tra piano Base e Pro? entro oggi.,Commerciale,bassa
+226,Tempi di consegna ID#6555,Quali differenze tra piano Base e Pro? entro domani.,Commerciale,media
+227,Sconto per quantità ID#1714,Vorrei fare upgrade del piano dal prossimo mese. entro oggi.,Commerciale,bassa
+228,Upgrade piano ID#5872,Possiamo avere sconto per quantità su ordine ricorrente?.,Commerciale,bassa
+229,Info offerta Pro ID#4831,Vorrei un preventivo per 20 licenze e assistenza. per favore.,Commerciale,bassa
+230,Disponibilità prodotto ID#7332,Disponibilità prodotto e costi di spedizione. entro oggi.,Commerciale,bassa
+231,Cambio ordine ID#3174,Disponibilità prodotto e costi di spedizione. è urgente.,Commerciale,alta
+232,Stato ordine ID#5969,Vorrei un preventivo per 20 licenze e assistenza. grazie.,Commerciale,bassa
+233,Tempi di consegna ID#6235,Vorrei fare upgrade del piano dal prossimo mese. è urgente.,Commerciale,alta
+234,Upgrade piano ID#9386,Quali differenze tra piano Base e Pro? il prima possibile.,Commerciale,bassa
+235,Cambio ordine ID#5051,Qual è lo stato del mio ordine e quando arriva? non urgente.,Commerciale,alta
+236,Info offerta Pro ID#8892,Vorrei un preventivo per 20 licenze e assistenza. richiesta bloccante.,Commerciale,alta
+237,Upgrade piano ID#7988,Qual è lo stato del mio ordine e quando arriva? per favore.,Commerciale,bassa
+238,Info offerta Pro ID#2377,Possiamo avere sconto per quantità su ordine ricorrente? il prima possibile.,Commerciale,bassa
+239,Info offerta Pro ID#9167,Posso modificare l'ordine già inserito? è urgente.,Commerciale,alta
+240,Stato ordine ID#3177,Mi servono tempi di consegna stimati. non urgente.,Commerciale,alta
+241,Disponibilità prodotto ID#9823,Mi servono tempi di consegna stimati. per favore.,Commerciale,bassa
+242,Sconto per quantità ID#5577,Possiamo avere sconto per quantità su ordine ricorrente? entro oggi.,Commerciale,bassa
+243,Upgrade piano ID#5265,Possiamo avere sconto per quantità su ordine ricorrente? il prima possibile.,Commerciale,bassa
+244,Disponibilità prodotto ID#4043,Mi servono tempi di consegna stimati. il prima possibile.,Commerciale,bassa
+245,Tempi di consegna ID#5609,Qual è lo stato del mio ordine e quando arriva? il prima possibile.,Commerciale,bassa
+246,Upgrade piano ID#7489,Quali differenze tra piano Base e Pro? entro oggi.,Commerciale,bassa
+247,Tempi di consegna ID#2647,Mi servono tempi di consegna stimati. è urgente.,Commerciale,alta
+248,Richiesta preventivo ID#1073,Quali differenze tra piano Base e Pro? è urgente.,Commerciale,alta
+249,Tempi di consegna ID#7125,Disponibilità prodotto e costi di spedizione..,Commerciale,bassa
+250,Sconto per quantità ID#2953,Mi servono tempi di consegna stimati..,Commerciale,bassa
+251,Tempi di consegna ID#2230,Mi servono tempi di consegna stimati. entro domani.,Commerciale,media
+252,Stato ordine ID#5258,Disponibilità prodotto e costi di spedizione..,Commerciale,bassa
+253,Info offerta Pro ID#4565,Vorrei fare upgrade del piano dal prossimo mese..,Commerciale,bassa
+254,Upgrade piano ID#3316,Vorrei fare upgrade del piano dal prossimo mese..,Commerciale,bassa
+255,Tempi di consegna ID#1626,Possiamo avere sconto per quantità su ordine ricorrente? il prima possibile.,Commerciale,bassa
+256,Richiesta preventivo ID#7700,Vorrei fare upgrade del piano dal prossimo mese. entro domani.,Commerciale,media
+257,Stato ordine ID#2276,Possiamo avere sconto per quantità su ordine ricorrente? il prima possibile.,Commerciale,bassa
+258,Richiesta preventivo ID#9979,Disponibilità prodotto e costi di spedizione. è urgente.,Commerciale,alta
+259,Info offerta Pro ID#2661,Posso modificare l'ordine già inserito? non urgente.,Commerciale,alta
+260,Stato ordine ID#3681,Quali differenze tra piano Base e Pro? non urgente.,Commerciale,alta
+261,Sconto per quantità ID#5641,Posso modificare l'ordine già inserito? entro oggi.,Commerciale,bassa
+262,Cambio ordine ID#6117,Vorrei un preventivo per 20 licenze e assistenza. entro domani.,Commerciale,media
+263,Cambio ordine ID#1298,Posso modificare l'ordine già inserito? entro domani.,Commerciale,media
+264,Tempi di consegna ID#7635,Posso modificare l'ordine già inserito? il prima possibile.,Commerciale,bassa
+265,Richiesta preventivo ID#3565,Posso modificare l'ordine già inserito? non urgente.,Commerciale,alta
+266,Info offerta Pro ID#7655,Quali differenze tra piano Base e Pro? entro domani.,Commerciale,media
+267,Disponibilità prodotto ID#3129,Qual è lo stato del mio ordine e quando arriva?.,Commerciale,bassa
+268,Richiesta preventivo ID#7499,Qual è lo stato del mio ordine e quando arriva? per favore.,Commerciale,bassa
+269,Upgrade piano ID#3390,Qual è lo stato del mio ordine e quando arriva? entro domani.,Commerciale,media
+270,Sconto per quantità ID#9538,Qual è lo stato del mio ordine e quando arriva? grazie.,Commerciale,bassa
+271,Info offerta Pro ID#7287,Quali differenze tra piano Base e Pro? è urgente.,Commerciale,alta
+272,Tempi di consegna ID#3075,Possiamo avere sconto per quantità su ordine ricorrente?.,Commerciale,bassa
+273,Disponibilità prodotto ID#1874,Vorrei fare upgrade del piano dal prossimo mese. non urgente.,Commerciale,alta
+274,Info offerta Pro ID#4638,Qual è lo stato del mio ordine e quando arriva? non urgente.,Commerciale,alta
+275,Tempi di consegna ID#3997,Disponibilità prodotto e costi di spedizione. il prima possibile.,Commerciale,bassa
+276,Richiesta preventivo ID#9485,Posso modificare l'ordine già inserito? grazie.,Commerciale,bassa
+277,Cambio ordine ID#3016,Vorrei fare upgrade del piano dal prossimo mese. grazie.,Commerciale,bassa
+278,Tempi di consegna ID#1673,Mi servono tempi di consegna stimati. richiesta bloccante.,Commerciale,alta
+279,Richiesta preventivo ID#2928,Vorrei fare upgrade del piano dal prossimo mese. non urgente.,Commerciale,alta
+280,Disponibilità prodotto ID#7882,Possiamo avere sconto per quantità su ordine ricorrente? entro oggi.,Commerciale,bassa
+281,Tempi di consegna ID#7376,Posso modificare l'ordine già inserito? entro domani.,Commerciale,media
+282,Disponibilità prodotto ID#3928,Disponibilità prodotto e costi di spedizione..,Commerciale,bassa
+283,Richiesta preventivo ID#8623,Disponibilità prodotto e costi di spedizione. il prima possibile.,Commerciale,bassa
+284,Disponibilità prodotto ID#3942,Disponibilità prodotto e costi di spedizione. è urgente.,Commerciale,alta
+285,Cambio ordine ID#2099,Quali differenze tra piano Base e Pro? grazie.,Commerciale,bassa
+286,Upgrade piano ID#6985,Posso modificare l'ordine già inserito? per favore.,Commerciale,bassa
+287,Disponibilità prodotto ID#1666,Vorrei un preventivo per 20 licenze e assistenza. grazie.,Commerciale,bassa
+288,Info offerta Pro ID#9380,Vorrei fare upgrade del piano dal prossimo mese. per favore.,Commerciale,bassa
+289,Richiesta preventivo ID#3231,Posso modificare l'ordine già inserito?.,Commerciale,bassa
+290,Info offerta Pro ID#4173,Quali differenze tra piano Base e Pro? grazie.,Commerciale,bassa
+291,Disponibilità prodotto ID#3705,Possiamo avere sconto per quantità su ordine ricorrente? il prima possibile.,Commerciale,bassa
+292,Info offerta Pro ID#5132,Vorrei fare upgrade del piano dal prossimo mese. grazie.,Commerciale,bassa
+293,Upgrade piano ID#8477,Possiamo avere sconto per quantità su ordine ricorrente? grazie.,Commerciale,bassa
+294,Sconto per quantità ID#4413,Disponibilità prodotto e costi di spedizione. entro oggi.,Commerciale,bassa
+295,Tempi di consegna ID#7099,Vorrei fare upgrade del piano dal prossimo mese..,Commerciale,bassa
+296,Tempi di consegna ID#7610,Qual è lo stato del mio ordine e quando arriva? grazie.,Commerciale,bassa
+297,Sconto per quantità ID#7174,Vorrei fare upgrade del piano dal prossimo mese. grazie.,Commerciale,bassa
+298,Sconto per quantità ID#9695,Quali differenze tra piano Base e Pro?.,Commerciale,bassa
+299,Upgrade piano ID#9543,Disponibilità prodotto e costi di spedizione. per favore.,Commerciale,bassa
+300,Sconto per quantità ID#7086,Posso modificare l'ordine già inserito? entro oggi.,Commerciale,bassa
