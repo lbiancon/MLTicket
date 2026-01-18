@@ -7,7 +7,7 @@ Repository that contain the project MLTichek for Pegaso PW by Bianconi Luca 0312
 Step 1 — struttura progetto
 "Inizializzazione struttura progetto MLTicket"
 Contiene:
-cartelle src/, data/, models/, reports/
+cartelle src/, data/, models/
 
 ## README iniziale
 file vuoti 
