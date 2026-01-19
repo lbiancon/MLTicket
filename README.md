@@ -85,11 +85,49 @@ e fornire:
 - Valutazione semplice (train/test split 80/20, accuracy, F1 macro, confusion matrix)
 - Dashboard per predizione singola e batch + 5 parole più influenti
 
-## Setup
+Include:
+- generazione dataset sintetico
+- training + valutazione
+- dashboard Streamlit (singolo ticket + batch CSV)
+
+## Requisiti
+- Python 3.10+ (consigliato 3.11)
+- pip
+
+## Installazione
 ```bash
-pip install -r requirements.txt
-mkdir -p data models
+python -m venv .venv
+# Windows:
+.\.venv\Scripts\activate
+# macOS/Linux:
+# source .venv/bin/activate
+
+## Esecuzione (ordine corretto)
+
+## Genera dataset sintetico:
 python src/generate_dataset.py
+
+
+## Addestra e valuta i modelli (genera anche PNG e salva i modelli in /models):
 python src/train_eval.py
-streamlit run src/app.py
+
+## Avvia la dashboard:
+python -m streamlit run src/app.py
+
+## Batch prediction
+## Carica un CSV con colonne:
+## id,title,body
+
+## La dashboard produce un CSV con:
+pred_category, pred_priority
+
+## per eseguirlo senza lanciare comando
+
+dasto destro su il file  `run_all.ps1` (Windows) nella root:
+
+```powershell
+.\.venv\Scripts\activate
+python src\generate_dataset.py
+python src\train_eval.py
+python -m streamlit run src\app.py
 
