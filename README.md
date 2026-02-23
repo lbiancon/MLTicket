@@ -103,10 +103,11 @@ python -m venv .venv
 # source .venv/bin/activate
 
 ## Esecuzione (ordine corretto)
+# installa le dipendenze 
+pip install -r requirements.txt
 
 ## Genera dataset sintetico:
 python src/generate_dataset.py
-
 
 ## Addestra e valuta i modelli (genera anche PNG e salva i modelli in /models):
 python src/train_eval.py
