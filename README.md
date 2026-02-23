@@ -103,7 +103,7 @@ python -m venv .venv
 # source .venv/bin/activate
 
 ## Esecuzione (ordine corretto)
-# installa le dipendenze 
+# entra nella root del progetto e installa le dipendenze
 pip install -r requirements.txt
 
 ## Genera dataset sintetico:
