@@ -31,7 +31,7 @@ def assign_priority(title: str, body: str) -> str:
             return "media"
     return "bassa"
 
-def generate_synthetic_dataset(n_total: int = 300, seed: int = 7, out_csv: str = "data/tickets_sintetici.csv"):
+def generate_synthetic_dataset(n_total: int = 500, seed: int = 7, out_csv: str = "data/tickets_sintetici.csv"):
     random.seed(seed)
 
     # Lessico tipico per categoria (title + body)
@@ -131,4 +131,5 @@ def generate_synthetic_dataset(n_total: int = 300, seed: int = 7, out_csv: str =
     print(df.head(5))
 
 if __name__ == "__main__":
-    generate_synthetic_dataset(n_total=300, seed=7, out_csv="data/tickets_sintetici.csv")
+    generate_synthetic_dataset(n_total=500, seed=7, out_csv="data/tickets_sintetici.csv")
+
